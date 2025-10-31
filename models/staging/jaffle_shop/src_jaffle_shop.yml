@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: jaffle_shop
+    description: A schema for jaffle shop tables
+    database: raw
+    tables:
+      - name: customers
+      - name: orders
+      
+
