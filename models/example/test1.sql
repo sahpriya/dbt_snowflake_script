@@ -1,1 +1,0 @@
-select 1 as sno,'priya' as name
